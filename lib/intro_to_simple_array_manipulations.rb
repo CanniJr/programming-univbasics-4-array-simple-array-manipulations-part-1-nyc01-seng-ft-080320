@@ -5,5 +5,3 @@ end
 def using_unshift(array, string)
   array.unshit(string)
 end
-
-def
